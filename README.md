@@ -1,5 +1,7 @@
 # Deepwiki MCP Server
 
+> ⚠️ **IMPORTANT NOTICE**: This server is currently not working since DeepWiki has cut off the possibility to scrape it. We recommend using the official DeepWiki MCP server at https://docs.devin.ai/work-with-devin/deepwiki-mcp for the time being.
+
 This is an **unofficial Deepwiki MCP Server**
 
 It takes a Deepwiki URL via MCP, crawls all relevant pages, converts them to Markdown, and returns either one document or a list by page.
