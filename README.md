@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/73/deepwiki-markdown-converter)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/73/deepwiki-markdown-converter)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/73/deepwiki-markdown-converter)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/73/deepwiki-markdown-converter)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/73/deepwiki-markdown-converter)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/73/deepwiki-markdown-converter)
+
 # Deepwiki MCP Server
 
 > ⚠️ **IMPORTANT NOTICE**: This server is currently not working since DeepWiki has cut off the possibility to scrape it. We recommend using the official DeepWiki MCP server at https://docs.devin.ai/work-with-devin/deepwiki-mcp for the time being.
